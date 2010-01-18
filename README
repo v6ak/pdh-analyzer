@@ -1,0 +1,9 @@
+Well, the code is scratchy and a bit unclean, some names are not well and you need to know a context to understand them etc. I currently have another priorities, but I wanted to show some code that works.
+
+Building: you need:
+* a Java compiler
+* Lombok (see http://projectlombok.org/ )
+* my argument parsing library (it is currently not public)
+
+
+Vít Šesták AKA v6ak
