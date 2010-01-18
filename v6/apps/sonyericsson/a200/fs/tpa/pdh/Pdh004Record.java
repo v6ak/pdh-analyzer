@@ -11,6 +11,7 @@ public class Pdh004Record extends AutoPdhRecord{
 	// ?? 02|01 ff ff ff ff 0f 00 ??
 	// public static final PdhRecordElement<byte[]> unknownBytes1 = new BytesElement(0x09);
 	
+	// this is maybe dirty; TODO: analyze these bytes
 	public static final PdhRecordElement<byte[]> unknownBytes8 = new DynamicBytesElement((byte)0xff);
 	
 	// ff ff ff 0f 00 ??
